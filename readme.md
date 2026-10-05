@@ -1,0 +1,3 @@
+Desenvolvi um sistema CRUD em PHP para gestão de estoque de brinquedos. A aplicação possui uma tela principal (index.php) que lista os itens por ID e oferece opções de ação; formulários para inclusão (cadastrar.php) e alteração (editar.php), integrados a scripts separados de validação via POST (salvar.php e atualizar.php); uma rotina de remoção direta por ID (excluir.php); e uma camada centralizada (infra/conexao.php) responsável pelo acesso ao banco de dados.
+
+Vale um detalhe sobre o visual que a intenção inicial era usar as cores do Flamengo, mas infelizmente acabou puxando mais para o lado do Internacional. E fica registrado que não tenho nada contra o professor Ícaro que é gremista, dale gremio!
