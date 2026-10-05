@@ -21,6 +21,7 @@ $brinquedos = $resultado->fetch_all(MYSQLI_ASSOC);
 
 ?>
 
+
 <!DOCTYPE html>
 <html lang="pt-br">
 
@@ -37,6 +38,9 @@ $brinquedos = $resultado->fetch_all(MYSQLI_ASSOC);
     <a href="public/cadastrar.php" class="botao">
         Cadastrar brinquedo
     </a>
+
+    <hr> 
+
 
     <table>
 
@@ -99,9 +103,11 @@ $brinquedos = $resultado->fetch_all(MYSQLI_ASSOC);
 
             <?php endforeach; ?>
 
+            
         </tbody>
-
+        
     </table>
+    <hr>
 
 </body>
 </html>

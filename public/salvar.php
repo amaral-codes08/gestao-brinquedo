@@ -1,6 +1,6 @@
 <?php
 
-require_once "../infra/conecao.php";
+require_once __DIR__ . '/../infra/conexao.php';
 
 $nome = $_POST["nome"];
 $categoria = $_POST["categoria"];

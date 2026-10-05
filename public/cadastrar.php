@@ -4,10 +4,13 @@
 <head>
     <meta charset="UTF-8">
     <link rel="stylesheet" href="../style.css">
-    <title>Cadastrar Brinquedo</title>
+    <title>Cadastrar Brinquedo DO FLAMENGO</title>
+    <title>BRINQUEDOS DO FLAMENGO</title>
 </head>
 
 <body>
+
+
 
     <main>
         <h1>Cadastrar Brinquedo</h1>
